@@ -57,7 +57,7 @@ The following flow was tested:
 
 # Automated Scenarios
 ## Existing User Flow
-Verify existing email redirects user to Login with OTP flow
+1. Verify existing email redirects user to Login with OTP flow
 New User Flow
 Verify new user can proceed with registration
 Verify First Name field
