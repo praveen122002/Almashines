@@ -59,32 +59,32 @@ The following flow was tested:
 ## Existing User Flow
 1. Verify existing email redirects user to Login with OTP flow
 New User Flow
-Verify new user can proceed with registration
-Verify First Name field
-Verify Last Name field
-Verify Password field
-Verify Confirm Password field
-Verify Role Selection
-Verify Terms Acceptance
-Verify Successful Registration
+2. Verify the new user can proceed with registration
+3. Verify First Name field
+4. Verify Last Name field
+5. Verify Password field
+6. Verify Confirm Password field
+7. Verify Role Selection
+8. Verify Terms Acceptance
+9. Verify Successful Registration
 
 # Validation Checks
-Existing User Detection
-New User Detection
-Password Matching Validation
-Mandatory Field Validation
+1. Existing User Detection
+2. New User Detection
+3. Password Matching Validation
+4. Mandatory Field Validation
 
 # Manual Test Cases Not Automated
 The following scenarios were intentionally left for manual testing:
 
-OTP Email Delivery
-OTP Expiry Validation
-OTP Resend Functionality
-UI Responsiveness
-Browser Zoom Testing
-Accessibility Testing
-Session Handling
-Visual Verification
+1. OTP Email Delivery
+2. OTP Expiry Validation
+3. OTP Resend Functionality
+4. UI Responsiveness
+5. Browser Zoom Testing
+6. Accessibility Testing
+7. Session Handling
+8. Visual Verification
 
 Reason:
 These scenarios involve external dependencies, visual validations, accessibility validations, or low automation return on investment.
@@ -107,6 +107,6 @@ The framework supports full OTP automation through Gmail API integration if secu
 
 # Assumptions
 Test data remains available during execution.
-Application environment is accessible.
+The application environment is accessible.
 OTP emails are delivered successfully.
 User has access to the registered email account.
