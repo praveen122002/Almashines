@@ -13,9 +13,9 @@ Node.js
 Page Object Model (POM)
 
 # Project Structure
-project
+## project
 
-pages
+### pages
 
   HomePage.ts
   
@@ -25,17 +25,17 @@ pages
   
   ChooseRole.ts
   
- tests
+### tests
  
   signup.spec.ts
    
-test-data
+### test-data
 
   testData.ts
 
-playwright.config.ts
+### playwright.config.ts
 
-package.json
+### package.json
 
 
 # Sign Up Flow Covered
