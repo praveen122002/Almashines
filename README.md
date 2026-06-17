@@ -96,10 +96,10 @@ For the submitted solution, OTP verification was performed manually.
 Reason:
 Automating OTP retrieval through Gmail requires:
 
-Gmail API access
-OAuth authentication
-Secure storage of credentials
-Dedicated test mailbox
+1. Gmail API access
+2. OAuth authentication
+3. Secure storage of credentials
+4. Dedicated test mailbox
 
 To avoid exposing personal credentials or authentication tokens within a public assessment repository, OTP verification was executed manually.
 
