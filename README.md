@@ -14,25 +14,24 @@ Page Object Model (POM)
 
 # Project Structure
 project
-│
-├── pages
-│   ├── HomePage.ts
-│   ├── ExistingUser.ts
-│   ├── NewUser.ts
-│   └── ChooseRole.ts
-│
-├── tests
-│   └── signup.spec.ts
-│
-├── test-data
-│   └── testData.ts
-│
-├── utils
-│   └── LatestOtp.ts
-│
-├── playwright.config.ts
-├── package.json
-└── README.md
+pages
+  HomePage.ts
+  ExistingUser.ts
+  NewUser.ts
+  ChooseRole.ts
+  
+ tests
+  signup.spec.ts
+   
+test-data
+  testData.ts
+
+utils
+  LatestOtp.ts
+
+playwright.config.ts
+package.json
+
 
 # Sign Up Flow Covered
 
