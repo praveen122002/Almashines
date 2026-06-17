@@ -26,13 +26,12 @@ pages
   ChooseRole.ts
   
  tests
+ 
   signup.spec.ts
    
 test-data
-  testData.ts
 
-utils
-  LatestOtp.ts
+  testData.ts
 
 playwright.config.ts
 package.json
