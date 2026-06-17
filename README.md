@@ -14,10 +14,15 @@ Page Object Model (POM)
 
 # Project Structure
 project
+
 pages
+
   HomePage.ts
+  
   ExistingUser.ts
+  
   NewUser.ts
+  
   ChooseRole.ts
   
  tests
