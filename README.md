@@ -107,6 +107,9 @@ The framework supports full OTP automation through Gmail API integration if secu
 
 # Assumptions
 Test data remains available during execution.
+
 The application environment is accessible.
+
 OTP emails are delivered successfully.
+
 User has access to the registered email account.
